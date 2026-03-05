@@ -1,6 +1,6 @@
 name: Bank
 version: 1.0
-main: me.hugosrc.Bank.BankPlugin
+main: br.com.silva.Bank.BankPlugin
 author: Silva
 api-version: 1.21
 depend: [Vault, Citizens, ProtocolLib]
