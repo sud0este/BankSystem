@@ -1,0 +1,11 @@
+name: Bank
+version: 1.0
+main: me.hugosrc.Bank.BankPlugin
+author: Silva
+api-version: 1.21
+depend: [Vault, Citizens, ProtocolLib]
+commands:
+  bank:
+    permission: 'server.createnpc.bank'
+    description: 'Cria um npc para seu banco'
+    usage: 'Uso: /bank set'
